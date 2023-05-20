@@ -1,0 +1,18 @@
+{
+  "name": "bc14_w4d1_workshop_intro-to-nodejs-esm-npm-jakir9",
+  "version": "1.0.0",
+  "description": "Node.js gives us the power to run JavaScript out of the browser. Running JavaScript outside of the browser means we'll now able to do some things which we weren't able to do before (for example, directly read/write files), but we also lose some things which we were able to do effortlessly in the browser (for example, there's no built-in DOM that comes with Node.js).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "save": "node save_as_json.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "my-prime": "^1.0.1",
+    "write-json-file": "^5.0.0"
+  }
+}

@@ -1,0 +1,24 @@
+{
+	"roadmap": [
+		{
+			"topic": "BJJ",
+			"haveLearned": true,
+			"why": "Good for self-defense and fitness"
+		},
+		{
+			"topic": "Muay-Thai",
+			"haveLearned": false,
+			"why": "Have not had time to solely learn this"
+		},
+		{
+			"topic": "Kickboxing",
+			"haveLearned": true,
+			"why": "Learnt this in striking classes"
+		},
+		{
+			"topic": "TKD",
+			"haveLearned": false,
+			"why": "not a real martial art"
+		}
+	]
+}
